@@ -70,14 +70,14 @@ include 'cdn.php';
     <div class="container">
 
         <!-- Product 1: ZNM800 -->
-        <div class="row text-center mb-5">
+        <!--<div class="row text-center mb-5">
             <div class="col-lg-12">
                 <h2 class="font-weight-bold">ZNM800: Optical Network Unit</h2>
                 <p class="lead">A reliable Optical Network Unit (ONU) with 1/2 GB RAM, 8GB ROM, and integrated OTT streaming capabilities, delivering high-speed internet and entertainment to your home.</p>
             </div>
         </div>
         
-        <!-- Images Side by Side -->
+        <!-- Images Side by Side 
         <div class="row mb-4">
             <div class="col-md-6 d-flex align-items-stretch">
                 <img src="assets/img/onu1.jpg" class="img-fluid rounded shadow img-size" alt="ZNM800 Image 1" style="opacity: 0.9; background-color: transparent; height: 100%;">
@@ -87,7 +87,7 @@ include 'cdn.php';
             </div>
         </div>
 
-        <!-- Specifications Table -->
+        <!-- Specifications Table 
         <div class="row mb-5">
             <div class="col-lg-12">
                 <h5 class="font-weight-bold text-center">Specifications:</h5>
@@ -112,7 +112,7 @@ include 'cdn.php';
                     </tbody>
                 </table>
             </div>
-        </div>
+        </div>-->
 
         <!-- Product 2: GB720 -->
         <div class="row text-center mb-5">
