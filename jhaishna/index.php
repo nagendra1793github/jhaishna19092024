@@ -13,7 +13,7 @@ include 'cdn.php';
     <link rel="icon" class="lozad" href="assets/img/favicon.png" type="image/png" sizes="16x16">
 
     <!--title-->
-    <title>Jhaishna</title>
+    <title>VEDANTHFORMS</title>
 
     <!-- VECTOR CODE -->
 
@@ -50,12 +50,12 @@ include 'cdn.php';
                         <div class="item">
                             <div class="col-md-8 col-lg-7 col-12">
                                 <div class="hero-content-wrap">
-                                    <h1 class="display-2">Transform Your Business in Next 90 Days</h1>
-                                    <p class="lead">Unlock Growth Potential with Oracle's BRM, OAP, and ASAP Solutions!</p>
+                                    <h1 class="display-2">vedanthforms and by products</h1>
+                                    <p class="lead">Vadenth Milk: Fresh, organic milk options, including whole, skim, and plant-based alternatives</p>
                                     <ul class="list-unstyled tech-feature-list text-white">
-                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>Billing</strong> Revenue management</li>
-                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>OBRM</strong> Access portal</li>
-                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>Automated</strong> service activation program</li>
+                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>BUFFELO MILK</strong> GEE</li>
+                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>CHESE</strong> BUTTER</li>
+                                        <li class="py-1"><span class="ti-control-forward mr-2"></span><strong>PANEER</strong> DAIRY PRODUCTS</li>
                                     </ul>
                                     <div class="action-btns pt-3">
                                         <a href="contact.php" class="btn btn-secondary mr-3">Connect</a>
@@ -67,8 +67,8 @@ include 'cdn.php';
                         <div class="item">
                             <div class="col-md-8 col-lg-7 col-12">
                                 <div class="hero-content-wrap position-relative z-index">
-                                    <h1 class="display-2">Bill like a BOSS with Oracle BRM!</h1>
-                                    <p class="lead">Empowering Communication Service Providers with Oracle BRM for seamless rating, billing, and revenue management across diverse services.</p>
+                                    <h1 class="display-2">Vadenth Milk: Fresh, organic milk options, including whole, skim, and plant-based alternatives</h1>
+                                    <p class="lead">Vadenth Milk: Fresh, organic milk options, including whole, skim, and plant-based alternatives.</p>
 
                                     <a href="contact.php" class="btn btn-secondary mt-3">Get Start Now</a>
                                 </div>
