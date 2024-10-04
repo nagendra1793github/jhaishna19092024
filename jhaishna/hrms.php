@@ -53,8 +53,8 @@ include 'cdn.php';
                                 <h1>HRMS</h1>
                                 <nav aria-label="breadcrumb" class="d-flex justify-content-center">
                                     <ol class="breadcrumb breadcrumb-transparent breadcrumb-text-light">
-                                        <li class="breadcrumb-item"><a href="index.php">Products</a></li>
-                                        <li class="breadcrumb-item active"><a href="Tailered.php">HRMS</a></li>
+                                        <li class="breadcrumb-item">Products</a></li>
+                                        <li class="breadcrumb-item active"><a href="HRMS.php">HRMS</a></li>
                                     </ol>
                                 </nav>
                             </div>
@@ -83,7 +83,8 @@ include 'cdn.php';
 
 </div>
         <div class="col-sm-6 mb-2">
-    <img src="assets\img\4px.jpg"  style="width: 500px; height: 250px; margin-left:80px;">
+    <img src="assets\img\hrms11.jpg"  style="width: 500px; height: 250px; margin-left:80px;">
+    <!-- <img src="assets\img\hrms-features.png"  style="width: 500px; height: 250px; margin-left:80px;"> -->
     <section class="bg-primary text-white py-5"style= "margin-left:80px;width: 500px;">
     <div class="container">
         <h4>HRMS</h4>

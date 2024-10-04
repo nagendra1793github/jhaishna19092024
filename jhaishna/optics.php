@@ -139,12 +139,7 @@ include 'cdn.php';
 
     <a href="practise2.php" class="text-decoration-none text-dark">
         <div class="card h-100 shadow-lg text-center card-hover"> <!-- Added class 'card-hover' -->
-            <!--<img src="assets/img/wifi.jpg" class="card-img-top" alt="P97 Image" style="height: 140px; ">-->
-            <img src="assets/img/wifi.jpg" 
-     class="card-img-top" 
-     alt="P97 Image" 
-     style="height: 160px; width: 800px; object-fit: contain;">
-
+            <img src="assets/img/wifi.jpg" class="card-img-top" alt="P97 Image" style="height: 140px; ">
             <!-- <div style="height: 200px; overflow: hidden;">
     <img src="assets/img/wifi.jpg" class="card-img-top" alt="P97 Image" style="height: auto; width: 100%; object-fit: cover;">
 </div> -->

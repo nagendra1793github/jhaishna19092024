@@ -66,6 +66,7 @@
         <li><a href="MES.php" aria-expanded="false">MXCloud</a></li>
         <li><a href="lms.php" aria-expanded="false">Loan Management System (LMS)</a></li>
         <li><a href="invoice.php" aria-expanded="false">E-Invoicing Software</a></li>
+        <li><a href="HRMS.php" aria-expanded="false">HRMS</a></li>
 
         <!-- Fiber Optics with Submenu -->
         <li class="nav-item dropdown">
