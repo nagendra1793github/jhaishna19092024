@@ -10,7 +10,11 @@ include 'cdn.php';
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!--favicon icon-->
-    <link rel="icon" class="lozad" href="assets/img/favicon.png" type="image/png" sizes="16x16">
+    <!--<link rel="icon" class="lozad" href="assets/img/favicon.png" type="image/png" sizes="16x16">-->
+    <!-- favicon icon -->
+<link rel="icon" class="lozad" href="assets/img/favicon.png" type="image/png" sizes="16x16">
+
+
 
     <!--title-->
     <title>Jhaishna</title>
